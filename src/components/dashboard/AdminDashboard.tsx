@@ -13,7 +13,6 @@ import {
   ArrowUpRight,
   CheckSquare,
   Users,
-  Settings,
   Edit
 } from 'lucide-react';
 import { motion } from 'motion/react';
@@ -306,18 +305,6 @@ export default function AdminDashboard() {
                    ))}
                 </div>
              )}
-          </div>
-       );
-    }
-
-    if (activeTab === 'settings') {
-       return (
-          <div className="rounded-3xl border border-slate-100 bg-white p-8">
-             <h3 className="text-xl font-black text-slate-900 mb-8 border-b border-slate-50 pb-4">Settings</h3>
-             <div className="text-center text-slate-500 py-12">
-                <Settings size={48} className="mx-auto text-slate-300 mb-4" />
-                <p className="font-bold">Organization settings go here.</p>
-             </div>
           </div>
        );
     }

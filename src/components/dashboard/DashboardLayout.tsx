@@ -6,7 +6,6 @@ import {
   CheckSquare, 
   Users, 
   BarChart2, 
-  Settings, 
   LogOut, 
   Plus, 
   Search, 
@@ -36,7 +35,6 @@ export default function DashboardLayout({ children, activeTab = 'teams', onTabCh
     { icon: <CheckSquare size={20} />, label: 'My Tasks', id: 'tasks' },
     { icon: <Users size={20} />, label: 'Members', id: 'team' },
     { icon: <BarChart2 size={20} />, label: 'Analytics', id: 'analytics' },
-    { icon: <Settings size={20} />, label: 'Settings', id: 'settings' },
   ];
 
   return (

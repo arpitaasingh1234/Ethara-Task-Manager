@@ -166,14 +166,6 @@ export default function MemberDashboard() {
           </div>
        );
     }
-    if (activeTab === 'settings') {
-       return (
-          <div className="rounded-3xl border border-slate-100 bg-white p-8">
-             <h3 className="text-xl font-black text-slate-900 mb-8 border-b border-slate-50 pb-4 uppercase tracking-tight">Settings</h3>
-             <p className="text-slate-500 font-bold text-center py-12">Settings view goes here.</p>
-          </div>
-       );
-    }
     if (activeTab === 'teams') {
        return (
           <div className="rounded-3xl border border-slate-100 bg-white p-8">
