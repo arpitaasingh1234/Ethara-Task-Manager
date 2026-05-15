@@ -1,0 +1,6 @@
+{
+  "name": "Ethara Team Task Manager",
+  "description": "A premium collaborative task management platform for Ethara.ai teams with role-based access and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
