@@ -1,10 +1,10 @@
 {
-  "projectId": "inbound-clarity-p07pf",
-  "appId": "1:988011894711:web:01258aebff067c1b853a32",
-  "apiKey": "AIzaSyDvwQo3uPnOaUBJLoF25Do9n9STCQnDL2g",
-  "authDomain": "inbound-clarity-p07pf.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-96fcb0d3-8b49-4dc8-98f0-f5ae7b5fd958",
-  "storageBucket": "inbound-clarity-p07pf.firebasestorage.app",
-  "messagingSenderId": "988011894711",
-  "measurementId": ""
+  "apiKey": "AIzaSyDec6XEYHxbZn9DSJ43v7Iyltbu2W6nXaM",
+  "authDomain": "ethara-6bb54.firebaseapp.com",
+  "projectId": "ethara-6bb54",
+  "storageBucket": "ethara-6bb54.firebasestorage.app",
+  "messagingSenderId": "310768642199",
+  "appId": "1:310768642199:web:351d4bd11522714d4121d2",
+  "measurementId": "G-X5ZV3EXTEX",
+  "firestoreDatabaseId": "(default)"
 }
